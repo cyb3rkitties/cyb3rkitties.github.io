@@ -23,7 +23,7 @@ timezone: Eastern Time
 
 title: al3x in cyberland                          # the main title
 
-tagline: my cybersecurity adventures in cyber threat intelligence, malware analysis, and reverse engineering.   # it will display as the sub-title
+tagline: my adventures in cyber threat intelligence, malware analysis, and reverse engineering.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   my cybersecurity adventures in cyber threat intelligence, malware analysis, and reverse engineering.
