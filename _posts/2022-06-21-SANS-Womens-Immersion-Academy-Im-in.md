@@ -1,5 +1,5 @@
 ---
-title: SANS Academy
+title: SANS Women's Immersion Academy - I'm in!
 author: al3x
 date: 2022-06-21 12:32:00 -0600
 ---
