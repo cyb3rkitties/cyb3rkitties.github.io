@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 I'm a **cyber threat intelligence and malware analysis professional** in the making with a passion for in-depth research and analysis, an obsession for discovering patterns, and over 10 years of experience in translating technical concepts into compelling written and multimedia content. I'm enrolled in the SANS Women's Immersion Academy 2022.
