@@ -10,11 +10,11 @@ A year ago, as I was starting to refresh my Python and Bash skills, I would neve
 
 Soon after taking those small steps and completing the courses, I decided to explore **cybersecurity as a career transition.** But how do you move from a digital communications background and some *off the records* programming experience to a career that, at least on paper and for the most part, requires specific degrees, certifications, and an IT background? Especially, how do you do that while working in nonprofits and not being able to afford most of the fancy credentials that other people can claim?
 
-I started doing some research to understand what free or cheap resources I could get access to, in order to build that training and experience for myself. And the [SANS Women’s Immersion Academy] (https://www.sans.org/scholarship-academies/womens-academy/) caught my eye, given their world-class education paths and knowing how valuable GIAC certifications are. I knew they would most likely open the application process in March, so I set a reminder on my calendar and got on with more training and learning.
+I started doing some research to understand what free or cheap resources I could get access to, in order to build that training and experience for myself. And the [SANS Women’s Immersion Academy](https://www.sans.org/scholarship-academies/womens-academy/) caught my eye, given their world-class education paths and knowing how valuable GIAC certifications are. I knew they would most likely open the application process in March, so I set a reminder on my calendar and got on with more training and learning.
 
 ### Application process, part one: online application and technical assessment
 
-I started my application to the [Academy] (https://www.sans.org/scholarship-academies/womens-academy/) a few days after SANS opened the portal, as I wanted to make sure I’d have enough time to go through all the steps and avoid rushing. There are a few forms that need to be filled and they include personal information as well as work and education history.
+I started my application to the [Academy](https://www.sans.org/scholarship-academies/womens-academy/) a few days after SANS opened the portal, as I wanted to make sure I’d have enough time to go through all the steps and avoid rushing. There are a few forms that need to be filled and they include personal information as well as work and education history.
 
 Right after submitting that, I received an email with an invitation to complete an online technical assessment with 50 questions and two hours of available time, which needed to be completed within the following five days.
 
