@@ -2,8 +2,6 @@
 title: SANS Academy
 author: al3x
 date: 2022-06-21 12:32:00 -0600
-#categories: [training]
-#tags: [sans] [women's immersion academy]
 ---
 
 A year ago, as I was starting to refresh my Python and Bash skills, I would never have imagined that today I would be here. When I got intrigued by a "Practical Ethical Hacking" class on Udemy, I didn't know where it would lead me.
