@@ -6,6 +6,7 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/alexperotti/'
   noblank: false
 -
 #  type: email
