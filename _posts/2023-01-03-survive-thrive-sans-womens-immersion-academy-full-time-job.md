@@ -1,5 +1,5 @@
 ---
-title: How to survive (and thrive) the SANS Women's Immersion Academy on top of a full-time job
+title: How to survive the SANS Women's Immersion Academy on top of a full-time job (and have a lot of fun while doing it)
 author: al3x
 date: 2023-01-03 3:39:00 -0600
 categories: [training]
