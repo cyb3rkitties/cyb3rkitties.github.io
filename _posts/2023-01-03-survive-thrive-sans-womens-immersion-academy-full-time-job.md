@@ -5,8 +5,6 @@ date: 2023-01-03 3:39:00 -0600
 categories: [training]
 tags: [women's immersion academy, sans, gsec, gcih, grem]
 ---
-![sec401-gsec-screenshot.png](sec401-gsec-screenshot.png)
-
 On December 31st, I took the certification exam for my last course in the [SANS Women’s Immersion Academy](https://cyb3rkitties.github.io/posts/SANS-Womens-Immersion-Academy-Im-in/) and closed this amazing 6-month-long experience with a 99% score on the GREM test.
 
 As a beginner in information security, and as someone with a full-time job and various other commitments, preparing three GIAC certification in roughly six months was certainly a challenge. But, if you're considering taking this path, you should know that, if you have enough passion and drive, YOU WILL SUCCEED.
