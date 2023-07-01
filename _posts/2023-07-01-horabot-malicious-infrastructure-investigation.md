@@ -12,21 +12,21 @@ My starting points were the [Indicators of Compromise (IOCs) shared by the Talos
 
 ### IP addresses
 
-139[.]177[.]193[.]74
-185[.]45[.]195[.]226
-216[.]238[.]70[.]224
-51[.]38[.]235[.]152
-137[.]220[.]53[.]87
-212[.]46[.]38[.]43
-191[.]101[.]2[.]101
+- 139[.]177[.]193[.]74
+- 185[.]45[.]195[.]226
+- 216[.]238[.]70[.]224
+- 51[.]38[.]235[.]152
+- 137[.]220[.]53[.]87
+- 212[.]46[.]38[.]43
+- 191[.]101[.]2[.]101
 
 ### Domains
-tributaria[.]website
-facturacionmarzo[.]cloud
-m9b4s2[.]site
-wiqp[.]xyz
-ckws[.]info
-amarte[.]store
+- tributaria[.]website
+- facturacionmarzo[.]cloud
+- m9b4s2[.]site
+- wiqp[.]xyz
+- ckws[.]info
+- amarte[.]store
 
 I decided to start from the last domain name, amarte[.]store and look it up on [URLScan.io](https://urlscan.io/). The search revealed the IP address associated with the domain, 89[.]117[.]37[.]61, as well as a script at a very specific URL:
 
@@ -67,7 +67,7 @@ Focusing on the new IP, which shows the same services of the others (ports 22, 8
 
 ![154.49.9.168.details](horabot/154.49.9.168.details.png)
 
-Please, not that this screenshot is taken from my notes: unfortunately, going back to Censys for more, I found out that-surprise surprise-services on this last IP were recently taken down:
+Please, note that this screenshot is taken from my notes: unfortunately, going back to Censys for more, I found out that-surprise surprise-services on this last IP were recently taken down:
 
 ![154.49.9.168.services](horabot/154.49.9.168.services.png)
 
