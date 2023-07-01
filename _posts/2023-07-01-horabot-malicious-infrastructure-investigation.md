@@ -1,7 +1,7 @@
 ---
 title: Horabot - Malicious Infrastructure Investigation
 author: al3x
-date: 2023-07-04 12:32:00 -0600
+date: 2023-07-01 06:25:00 -0600
 categories: [research]
 tags: [malware analysis, threat hunting, osint, malicious infrastructure]
 ---
