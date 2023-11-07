@@ -21,12 +21,12 @@ timezone: Eastern Time
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: al3x in cyberland                          # the main title
+title: al3x perotti                          # the main title
 
-tagline: my adventures in cyber threat intelligence, malware analysis, and reverse engineering.   # it will display as the sub-title
+tagline: malware reverse engineer, threat hunter, and security consultant.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  my cybersecurity adventures in cyber threat intelligence, malware analysis, and reverse engineering.
+  malware reverse engineering, threat hunting, and cybersecurity consulting for nonprofits and small businesses.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://cyberkitties.github.io'
