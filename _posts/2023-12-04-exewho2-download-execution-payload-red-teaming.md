@@ -1,7 +1,7 @@
 ---
-title: ExeWho2 -
+title: ExeWho2 - A Tool from the Wild 
 author: al3x
-date: 2023-12-04 15:47:00 -0600
+date: 2023-12-04 12:47:00 -0600
 categories: [research]
 tags: [threat hunting, red teaming, malicious tool]
 ---
